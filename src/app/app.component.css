@@ -1,0 +1,19 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 30%;
+  }
+
+  .example-container2 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container2 > * {
+    width: 30%;
+  }
+  
+  
